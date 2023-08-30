@@ -29,3 +29,13 @@ Implement three types of hill climbing based solvers, each based on first ascent
 ## Subtask 3: Simulated Annealing Solver
 
 Implement the final solver, which is based on simulated annealing. Try to tune the parameters so that your solver performs well against the others you have implemented. This should be in `sa.py`.
+
+## Report
+
+Write, and commit a simple report detailing your implementations, and include it as a PDF file in the repository. In particular, try to discuss the following point:
+
+- Between first and steepest ascent, which algorithm performs better in this assignment? Why?
+
+## Bonus Point
+
+If you feel up to it, implement an additional solver based on any algorithm that is not part of the assignment (it has to be more than variants of HC or SA, it needs to be something completely different). If you do this, explain the algorithm you used in the report.
