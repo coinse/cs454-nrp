@@ -1,4 +1,4 @@
-# CS454 Assignment 1: Local Search for Next Relaese Problem
+# CS454 Assignment 1: Local Search for Next Release Problem
 
 The aim of this assignment is to understand and implement basic local search algorithms: greedy heuristic, variants of hill climbing (first ascent, steepest ascent, and random ascent), as well as simulated annealing. 
 
