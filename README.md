@@ -38,4 +38,4 @@ Write, and commit a simple report detailing your implementations, and include it
 
 ## Bonus Point
 
-If you feel up to it, implement an additional solver based on any algorithm that is not part of the assignment (it has to be more than variants of HC or SA, it needs to be something completely different). If you do this, explain the algorithm you used in the report.
+If you feel up to it, implement an additional solver based on any algorithm that is not part of the assignment (it has to be more than variants of HC or SA, it needs to be something completely different). If you do this, explain the algorithm you used in the report. If done correctly, you will gain 2% bonus on top of whatever you get for the main assignment.
